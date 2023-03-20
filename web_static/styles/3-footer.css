@@ -1,12 +1,11 @@
 /*
- * === Footer style ===
+ * Footer style
  */
 
-/* Footer style */
 footer {
   align-items: center;
   background-color: #fff;
-  border-top: 1px solid #ccc;
+  border-top: 1px #CCCCCC;
   bottom: 0;
   display: flex;
   height: 60px;
